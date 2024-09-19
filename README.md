@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over three years of extensive experience in data science and analytics, coupled with a Bachelor’s degree in Computer Applications, I have honed my skills in data analysis, statistical analysis, hypothesis testing, customer behavior analysis, and machine learning. I have successfully led impactful projects, delivering actionable insights and driving significant organisational improvements.
+With over three years of extensive experience in data science and analytics, coupled with a Bachelor’s degree in Computer Applications, I have honed my skills in data analysis, statistical analysis, hypothesis testing, customer behaviour analysis, and machine learning. I have successfully led impactful projects, delivering actionable insights and driving significant organisational improvements. I believe in sincerity, smartness, hard work and I want to serve with the same spirit. Wanted to be a part of an organization that offers an opportunity to enhance confidence, professional skills, and mutual development.
 
 
 ## 🌐 Socials:
